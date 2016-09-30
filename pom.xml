@@ -4,7 +4,7 @@
   <groupId>com.zenika.exemples</groupId>
   <artifactId>project3</artifactId>
   <packaging>war</packaging>
-  <version>1.0-SNAPSHOT</version>
+  <version>1.0.0-SNAPSHOT</version>
   <name>project3 Maven Webapp</name>
   <url>http://maven.apache.org</url>
   
@@ -22,7 +22,5 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
-  <build>
-    <finalName>project3</finalName>
-  </build>
+
 </project>
