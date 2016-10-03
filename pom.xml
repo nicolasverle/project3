@@ -15,8 +15,8 @@
   </parent>
   
 	<scm>
-		<connection>scm:git:https://github.com/nicolasverle/project3.git</connection>
-		<developerConnection>scm:git:ssh://github.com/nicolasverle/project3.git</developerConnection>
+		<connection>scm:git:https://git@github.com/nicolasverle/project3.git</connection>
+		<developerConnection>scm:git:ssh://git@github.com/nicolasverle/project3.git</developerConnection>
 		<url>https://github.com/nicolasverle/project3</url>
 		<tag>HEAD</tag>
 	</scm>
