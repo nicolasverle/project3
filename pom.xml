@@ -3,7 +3,7 @@
   <groupId>com.zenika.exemples</groupId>
   <artifactId>project3</artifactId>
   <packaging>war</packaging>
-  <version>1.0.3-SNAPSHOT</version>
+  <version>1.0.4-SNAPSHOT</version>
   <name>project3 Maven Webapp</name>
   <url>http://maven.apache.org</url>
   
