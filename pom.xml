@@ -61,14 +61,14 @@
   <distributionManagement>
 		<repository>
 			<id>central</id>
-			<url>http://192.168.33.22:8081/artifactory/libs-release</url>
+			<url>http://192.168.33.22:8081/artifactory/libs-release-local</url>
 			<snapshots>
 				<enabled>false</enabled>
 			</snapshots>
 		</repository>
 		<snapshotRepository>
 			<id>snapshots</id>
-			<url>http://192.168.33.22:8081/artifactory/libs-snapshot</url>
+			<url>http://192.168.33.22:8081/artifactory/libs-snapshot-local</url>
 			<releases>
 				<enabled>false</enabled>
 			</releases>
