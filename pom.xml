@@ -20,7 +20,12 @@
 		<url>https://github.com/nicolasverle/project3</url>
 		<tag>HEAD</tag>
 	</scm>
-  
+ 
+  <properties>
+    <maven.compiler.source>1.8</maven.compiler.source>
+    <maven.compiler.target>1.8</maven.compiler.target>
+  </properties>
+ 
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
