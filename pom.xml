@@ -3,7 +3,7 @@
   <groupId>com.zenika.exemples</groupId>
   <artifactId>project3</artifactId>
   <packaging>war</packaging>
-  <version>1.0.4</version>
+  <version>1.0.5-SNAPSHOT</version>
   <name>project3 Maven Webapp</name>
   <url>http://maven.apache.org</url>
   
@@ -17,7 +17,7 @@
 		<developerConnection>scm:git:git@github.com:nicolasverle/project3.git</developerConnection>
 		<connection>scm:git:git@github.com:nicolasverle/project3.git</connection>
 		<url>https://github.com/nicolasverle/project3</url>
-		<tag>project3-1.0.4</tag>
+		<tag>HEAD</tag>
 	</scm>
  
   <properties>
